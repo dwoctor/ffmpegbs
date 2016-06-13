@@ -14,3 +14,9 @@ For CentOS/RHEL/Fedora, run `yum_install.sh`
 
 After running the apropiate script, the compiled binaries are places in the user's `~/bin` directory.
 
+#### A script for compiling FFmpeg on Mac
+
+This script compiles FFmpeg using homebrew.
+
+For Mac, run `brew_install.sh`
+
